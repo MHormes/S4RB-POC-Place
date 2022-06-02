@@ -1,0 +1,34 @@
+.grid { margin:1em auto; border-collapse:collapse }
+.grid td {
+    cursor:pointer;
+    width:30px; height:30px;
+    border:1px solid #ccc;
+    text-align:center;
+    font-family:sans-serif; font-size:13px
+}
+.grid td.red {
+    background-color:red;
+}
+.grid td.green {
+    background-color:green;
+}
+.grid td.blue {
+    background-color:blue;
+}
+.grid td.yellow {
+    background-color:yellow;
+}
+.grid td.black {
+    background-color:black;
+}
+.grid td.white {
+    background-color:white;
+}
+
+h1{
+    text-align: center;
+}
+
+.buttons{
+    text-align: center;
+}
